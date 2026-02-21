@@ -6,3 +6,7 @@ __pycache__/
 .vscode/
 build/
 *.log
+plantvillage dataset/
+data/processed/
+*.zip
+*.pth
